@@ -1,6 +1,5 @@
 /*
  * Playlist.h
- * Author(s): [Your Name]
  * Description: Manages a fixed-size array of AudioTrack objects.
  *              Provides add, list, linear search, and insertion sort.
  */

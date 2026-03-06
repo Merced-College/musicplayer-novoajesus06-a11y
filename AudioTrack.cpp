@@ -1,6 +1,5 @@
 /*
  * AudioTrack.cpp
- * Author(s): [Your Name]
  * Description: Implementation of the AudioTrack class.
  *              Stores a track number and title; provides getters, setters, and print.
  */

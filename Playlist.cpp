@@ -1,6 +1,5 @@
 /*
  * Playlist.cpp
- * Author(s): [Your Name]
  * Description: Implementation of the Playlist class.
  *              Stores AudioTrack objects and supports list, linear search,
  *              and insertion sort (alphabetical by title).

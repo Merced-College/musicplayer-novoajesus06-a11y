@@ -1,6 +1,5 @@
 /*
  * AudioPlayer.h
- * Author(s): [Your Name]
  * Description: Wraps DFRobotDFPlayerMini calls and manages player state.
  *              All hardware interaction is encapsulated here; no DFPlayer
  *              calls should appear outside this class.

@@ -1,6 +1,5 @@
 /*
  * AudioTrack.h
- * Author(s): [Your Name]
  * Description: Represents a single audio track with a track number and title.
  *              Used by the Playlist class to store and retrieve song metadata.
  */
