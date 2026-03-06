@@ -1,6 +1,6 @@
 /*
  * AudioPlayer.cpp
- * Author(s): [Your Name]
+ * Author(s): Adan Bahena-Guardado and Jesus Novoa Vasquez
  * Description: Implementation of AudioPlayer.
  *              Manages PlayerState, enforces valid transitions, and wraps
  *              all DFRobotDFPlayerMini calls so no hardware code leaks
